@@ -72,6 +72,14 @@ public class ListBasics {
             }
         }
 
+        //reading reflection
+        // List<String> people = List.of("sally", "fred");
+        // for(String word : magicWords) {
+        //     for(String person : people) {
+        //         System.out.println(person + " says " + word + "!");
+        //     }
+        // }
+
         // But can you nest a list inside another list? A list of lists? Yes!
 
         System.out.println(
